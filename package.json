@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/j0j032/j0j0_Breaker"
   },
   "author": "j0j0",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/"
+    "url": "https://github.com/j0j032"
   },
-  "homepage": "https://github.com/"
+  "homepage": "https://github.com/j0j032"
 }
