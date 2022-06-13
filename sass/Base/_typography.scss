@@ -1,0 +1,27 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to right, rgb(49, 155, 179), rgb(33, 144, 169));
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+h1,
+.score {
+  text-align: center;
+  font-size: 40px;
+  margin: 30px 0 50px;
+  color: #f1f1f1;
+}
+
+canvas {
+  background-color: #f1f1f1;
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+}
